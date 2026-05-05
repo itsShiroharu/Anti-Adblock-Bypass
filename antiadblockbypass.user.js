@@ -9,6 +9,10 @@
 // @run-at       document-start
 // ==/UserScript==
 
+// WARNING! "https://*/*" will activate it to all site you visited. It may break some sites (e.g. showing only full white/black site)
+// It is recommended to change the first asterisk (after the https://) into your desired site (e.g. https://itsshiroharu.github.io/*)
+// If you have multiple site to activate it, simply add another "// @match" line below it.
+
 (function () {
     'use strict';
 
