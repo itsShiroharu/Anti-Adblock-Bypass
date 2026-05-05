@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bypass The 3Labs Team's Anti-Adblock
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      1.0
 // @description  Anti-adblock (The 3Labs Team) bypass script for Tampermonkey. Detects and disables Anti-adblock and it's restrictions to restore full site functionality.
 // @author       Shengwei Xiong
 // @match        https://*/*
